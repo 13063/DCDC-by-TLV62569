@@ -1,5 +1,5 @@
 # DCDC-by-TLV62569
- a power whose input is 5V and output is 3.3V with max current 2A using TLV62569
+ A DCDC module whose input is 5V and output is 3.3V with max current 2A using TLV62569
 
 
 I design it to drive my leds,whose rating voltage is 3.3V and rating current is 350mA.if voltage is higher,it will brun,the maxium voltage is 3.5V,but the power I use is 5V,so this moudule is created.
